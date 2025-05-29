@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function () {
     AOS.init();
   
     // Load Particles.js
-    particlesJS.load('student-feature', 'particles.json', function () {
+    particlesJS.load('particles-js', 'particles.json', function () {
       console.log('particles.js config loaded');
     });
   });
